@@ -1,6 +1,5 @@
 # depslib dependency file v1.0
-1756462709 source:c:\users\kavya\onedrive\documents\projections\main.cpp
+1756462891 source:c:\users\kavya\onedrive\documents\projections\main.cpp
 	<GL/glut.h>
 	<iostream>
-	<string>
 
